@@ -1,6 +1,6 @@
 # GitHub Profile Finder
 
-![Project Banner](Untitled.png)
+![Project Banner](Github.png)
 
 ## 📋 Project Overview
 
@@ -67,4 +67,5 @@ GitHub-Profile-Finder/
 
 <p align="center">
   Crafted with ❤️ by Aniket Gupta
+
 </p>
