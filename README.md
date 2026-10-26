@@ -8,7 +8,7 @@
 
 This project demonstrates the integration of third-party APIs, asynchronous JavaScript, and modern CSS styling techniques (Glassmorphism).
 
-## Here is Live Website:(https://aniketgupta149.github.io/GitHub-Profile-Finder/)
+### 🚀 [Live Website](https://aniketgupta149.github.io/GitHub-Profile-Finder/)
 
 ## ✨ Key Features
 
